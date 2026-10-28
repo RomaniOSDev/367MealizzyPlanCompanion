@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01489428E613C132B6BAD472 /* BrinzaIdeaBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6084AC91820638DC675543A1 /* BrinzaIdeaBrowser.swift */; };
+		062C28E91C8FC3FE540BA2CE /* BrinzaWeekBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CFE70732435CFE690A7AD3 /* BrinzaWeekBoard.swift */; };
+		15A995B278B91B8D47C24922 /* BrinzaSurfaceKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CD2BE199A19F5237428AA6 /* BrinzaSurfaceKit.swift */; };
+		15B85459E205FE271994ADA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6127B418CF4E39FF3655FF5 /* ContentView.swift */; };
+		261E8BD88031FAF7B9701D73 /* BrinzaPreferenceCanvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E2361A0144BFE705CDE9B3 /* BrinzaPreferenceCanvas.swift */; };
+		4918C83BE6AEC2C792052EA2 /* BrinzaWelcomeReel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF50B08472B5487A8A1AF4D /* BrinzaWelcomeReel.swift */; };
+		53E84D69AA32EA3BD8AFFDEE /* BrinzaCookLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E1791A79710AAB86D3638AC /* BrinzaCookLog.swift */; };
+		5490BAD579F74E227D26EB36 /* BrinzaLinkLedger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972D44B6BFA24FAF92C4CD85 /* BrinzaLinkLedger.swift */; };
+		7CDD6EB4E5A2E8955CB327AB /* BrinzaPantryRoll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA425376A574BA03D850D08 /* BrinzaPantryRoll.swift */; };
+		7D337AA2B77ABD3B8AEF3D5B /* BrinzaTickBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85BA5B56AB0E288931BE802C /* BrinzaTickBoard.swift */; };
+		811977DD45AA9FF19299C6B5 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0AC4EF0892B764C8D4AE2AB2 /* PrivacyInfo.xcprivacy */; };
+		928B26EC5DE6A063253E35CA /* BrinzaLedgerVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC2949DB3282D1B02EB56D4 /* BrinzaLedgerVault.swift */; };
+		9408039A5971E0DC05BFEB41 /* BrinzaPantryModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21833180811093E61C36A96 /* BrinzaPantryModels.swift */; };
+		995F4B49B9EA045BACE22510 /* BrinzaRecipeLeaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = F709194EB6E0B5FC8C78B2B9 /* BrinzaRecipeLeaf.swift */; };
+		A5B779C0B5089A4428CB3E9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48163B1FBBFA9A2538A22D31 /* Assets.xcassets */; };
+		AB79A7C586519691CAF3B5F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C3971E3CE5DFD470EB5446 /* SceneDelegate.swift */; };
+		B6E245B6BF95524AD5A597D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5612373A1022D870DB6A81DB /* Main.storyboard */; };
+		B8654AC3AF4D0C1D66C799C9 /* BrinzaRecipeAtlas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC572D48B2082A77CE5C88 /* BrinzaRecipeAtlas.swift */; };
+		D639B1A68077ABC17A611F0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003376FA5E873A3C5567EACB /* AppDelegate.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		003376FA5E873A3C5567EACB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		06D697FAD5F11EE1B11079ED /* 367MealizzyPlanCompanion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 367MealizzyPlanCompanion.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AC4EF0892B764C8D4AE2AB2 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		48163B1FBBFA9A2538A22D31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		49CD2BE199A19F5237428AA6 /* BrinzaSurfaceKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaSurfaceKit.swift; sourceTree = "<group>"; };
+		5612373A1022D870DB6A81DB /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		6084AC91820638DC675543A1 /* BrinzaIdeaBrowser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaIdeaBrowser.swift; sourceTree = "<group>"; };
+		65CFE70732435CFE690A7AD3 /* BrinzaWeekBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaWeekBoard.swift; sourceTree = "<group>"; };
+		85BA5B56AB0E288931BE802C /* BrinzaTickBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaTickBoard.swift; sourceTree = "<group>"; };
+		873AC4403DC3EE6714C40ABB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DA425376A574BA03D850D08 /* BrinzaPantryRoll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaPantryRoll.swift; sourceTree = "<group>"; };
+		8FAC572D48B2082A77CE5C88 /* BrinzaRecipeAtlas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaRecipeAtlas.swift; sourceTree = "<group>"; };
+		972D44B6BFA24FAF92C4CD85 /* BrinzaLinkLedger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaLinkLedger.swift; sourceTree = "<group>"; };
+		9E1791A79710AAB86D3638AC /* BrinzaCookLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaCookLog.swift; sourceTree = "<group>"; };
+		B029F85BD4AEBAB2E7DAECD6 /* Pods-367MealizzyPlanCompanion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-367MealizzyPlanCompanion.release.xcconfig"; path = "Target Support Files/Pods-367MealizzyPlanCompanion/Pods-367MealizzyPlanCompanion.release.xcconfig"; sourceTree = "<group>"; };
+		BFF50B08472B5487A8A1AF4D /* BrinzaWelcomeReel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaWelcomeReel.swift; sourceTree = "<group>"; };
+		C21833180811093E61C36A96 /* BrinzaPantryModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaPantryModels.swift; sourceTree = "<group>"; };
+		C2C3971E3CE5DFD470EB5446 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C5E2361A0144BFE705CDE9B3 /* BrinzaPreferenceCanvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaPreferenceCanvas.swift; sourceTree = "<group>"; };
+		F6127B418CF4E39FF3655FF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F709194EB6E0B5FC8C78B2B9 /* BrinzaRecipeLeaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaRecipeLeaf.swift; sourceTree = "<group>"; };
+		FD428A6B9476CCE422E3307E /* Pods-367MealizzyPlanCompanion.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-367MealizzyPlanCompanion.debug.xcconfig"; path = "Target Support Files/Pods-367MealizzyPlanCompanion/Pods-367MealizzyPlanCompanion.debug.xcconfig"; sourceTree = "<group>"; };
+		FFC2949DB3282D1B02EB56D4 /* BrinzaLedgerVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrinzaLedgerVault.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2AFFA87E65ADE33DE24BBEE8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00681E4A0DA15EBBD9480D0D /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				019CAA4D7FA97F00C840EFB9 /* Models */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		019CAA4D7FA97F00C840EFB9 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C21833180811093E61C36A96 /* BrinzaPantryModels.swift */,
+				8FAC572D48B2082A77CE5C88 /* BrinzaRecipeAtlas.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		166ABCD54D9FD6070AADE7D8 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				FFC2949DB3282D1B02EB56D4 /* BrinzaLedgerVault.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		1F589F85E9014E1FFE2989B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06D697FAD5F11EE1B11079ED /* 367MealizzyPlanCompanion.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		47EDC99049DC71FC89ACB5CE /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				003376FA5E873A3C5567EACB /* AppDelegate.swift */,
+				7BB9ED7F6B755D027F0E15F5 /* Base.lproj */,
+				873AC4403DC3EE6714C40ABB /* Info.plist */,
+				C2C3971E3CE5DFD470EB5446 /* SceneDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		5B38F7B9F9A24DCFAE04B86A /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				BFF50B08472B5487A8A1AF4D /* BrinzaWelcomeReel.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		6409841C998619B295B402FD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6C08CC686D961CA69574F0BB /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				BDD569A30DA1A5B8B5A2E343 /* Chrome */,
+				9DFAC8CA3C6DF735FF196903 /* Ideas */,
+				D0A060743A6E841E32E984D5 /* Log */,
+				5B38F7B9F9A24DCFAE04B86A /* Onboarding */,
+				A9CDED51071CAB7D04F1EFD2 /* Pantry */,
+				F5B0DC2667D7F998CB3AD2B2 /* Preferences */,
+				9A8B2AB8CE562C52914B5124 /* Root */,
+				B40B96527F05382C59CD7DF9 /* Timers */,
+				F6711DADEE1E5320666A0173 /* Week */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		77C57114B094F22CE5024EFD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				48163B1FBBFA9A2538A22D31 /* Assets.xcassets */,
+				972D44B6BFA24FAF92C4CD85 /* BrinzaLinkLedger.swift */,
+				0AC4EF0892B764C8D4AE2AB2 /* PrivacyInfo.xcprivacy */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		7BB9ED7F6B755D027F0E15F5 /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5612373A1022D870DB6A81DB /* Main.storyboard */,
+			);
+			path = Base.lproj;
+			sourceTree = "<group>";
+		};
+		8F3AB805264A96E091AD62AB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FD428A6B9476CCE422E3307E /* Pods-367MealizzyPlanCompanion.debug.xcconfig */,
+				B029F85BD4AEBAB2E7DAECD6 /* Pods-367MealizzyPlanCompanion.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		9A8B2AB8CE562C52914B5124 /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				F6127B418CF4E39FF3655FF5 /* ContentView.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		9DFAC8CA3C6DF735FF196903 /* Ideas */ = {
+			isa = PBXGroup;
+			children = (
+				6084AC91820638DC675543A1 /* BrinzaIdeaBrowser.swift */,
+				F709194EB6E0B5FC8C78B2B9 /* BrinzaRecipeLeaf.swift */,
+			);
+			path = Ideas;
+			sourceTree = "<group>";
+		};
+		A9AEA058D76021A01F8D585D = {
+			isa = PBXGroup;
+			children = (
+				FFC24F26A0E88493510A4D5F /* 367MealizzyPlanCompanion */,
+				1F589F85E9014E1FFE2989B5 /* Products */,
+				8F3AB805264A96E091AD62AB /* Pods */,
+				6409841C998619B295B402FD /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A9CDED51071CAB7D04F1EFD2 /* Pantry */ = {
+			isa = PBXGroup;
+			children = (
+				8DA425376A574BA03D850D08 /* BrinzaPantryRoll.swift */,
+			);
+			path = Pantry;
+			sourceTree = "<group>";
+		};
+		B40B96527F05382C59CD7DF9 /* Timers */ = {
+			isa = PBXGroup;
+			children = (
+				85BA5B56AB0E288931BE802C /* BrinzaTickBoard.swift */,
+			);
+			path = Timers;
+			sourceTree = "<group>";
+		};
+		BDD569A30DA1A5B8B5A2E343 /* Chrome */ = {
+			isa = PBXGroup;
+			children = (
+				49CD2BE199A19F5237428AA6 /* BrinzaSurfaceKit.swift */,
+			);
+			path = Chrome;
+			sourceTree = "<group>";
+		};
+		D0A060743A6E841E32E984D5 /* Log */ = {
+			isa = PBXGroup;
+			children = (
+				9E1791A79710AAB86D3638AC /* BrinzaCookLog.swift */,
+			);
+			path = Log;
+			sourceTree = "<group>";
+		};
+		F5B0DC2667D7F998CB3AD2B2 /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				C5E2361A0144BFE705CDE9B3 /* BrinzaPreferenceCanvas.swift */,
+			);
+			path = Preferences;
+			sourceTree = "<group>";
+		};
+		F6711DADEE1E5320666A0173 /* Week */ = {
+			isa = PBXGroup;
+			children = (
+				65CFE70732435CFE690A7AD3 /* BrinzaWeekBoard.swift */,
+			);
+			path = Week;
+			sourceTree = "<group>";
+		};
+		FFC24F26A0E88493510A4D5F /* 367MealizzyPlanCompanion */ = {
+			isa = PBXGroup;
+			children = (
+				47EDC99049DC71FC89ACB5CE /* Application */,
+				00681E4A0DA15EBBD9480D0D /* Domain */,
+				166ABCD54D9FD6070AADE7D8 /* Persistence */,
+				6C08CC686D961CA69574F0BB /* Presentation */,
+				77C57114B094F22CE5024EFD /* Resources */,
+			);
+			path = 367MealizzyPlanCompanion;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		501EC581728EA854D6D815E0 /* 367MealizzyPlanCompanion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24B39E92ED6A0146F8D3090F /* Build configuration list for PBXNativeTarget "367MealizzyPlanCompanion" */;
+			buildPhases = (
+				1FA9B923D1B1F9D2B9CCA26E /* [CP] Check Pods Manifest.lock */,
+				26FA82B816585045CADB168E /* Sources */,
+				2AFFA87E65ADE33DE24BBEE8 /* Frameworks */,
+				3BADD029E00AD4369E398128 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 367MealizzyPlanCompanion;
+			productName = 367MealizzyPlanCompanion;
+			productReference = 06D697FAD5F11EE1B11079ED /* 367MealizzyPlanCompanion.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ADA950D7FBBEBF8582102C67 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					501EC581728EA854D6D815E0 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = F9D3088032484FCC2717D745 /* Build configuration list for PBXProject "367MealizzyPlanCompanion" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A9AEA058D76021A01F8D585D;
+			productRefGroup = 1F589F85E9014E1FFE2989B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				501EC581728EA854D6D815E0 /* 367MealizzyPlanCompanion */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BADD029E00AD4369E398128 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B6E245B6BF95524AD5A597D7 /* Main.storyboard in Resources */,
+				A5B779C0B5089A4428CB3E9A /* Assets.xcassets in Resources */,
+				811977DD45AA9FF19299C6B5 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1FA9B923D1B1F9D2B9CCA26E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-367MealizzyPlanCompanion-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		26FA82B816585045CADB168E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D639B1A68077ABC17A611F0F /* AppDelegate.swift in Sources */,
+				AB79A7C586519691CAF3B5F9 /* SceneDelegate.swift in Sources */,
+				9408039A5971E0DC05BFEB41 /* BrinzaPantryModels.swift in Sources */,
+				B8654AC3AF4D0C1D66C799C9 /* BrinzaRecipeAtlas.swift in Sources */,
+				928B26EC5DE6A063253E35CA /* BrinzaLedgerVault.swift in Sources */,
+				15A995B278B91B8D47C24922 /* BrinzaSurfaceKit.swift in Sources */,
+				01489428E613C132B6BAD472 /* BrinzaIdeaBrowser.swift in Sources */,
+				995F4B49B9EA045BACE22510 /* BrinzaRecipeLeaf.swift in Sources */,
+				53E84D69AA32EA3BD8AFFDEE /* BrinzaCookLog.swift in Sources */,
+				4918C83BE6AEC2C792052EA2 /* BrinzaWelcomeReel.swift in Sources */,
+				7CDD6EB4E5A2E8955CB327AB /* BrinzaPantryRoll.swift in Sources */,
+				261E8BD88031FAF7B9701D73 /* BrinzaPreferenceCanvas.swift in Sources */,
+				15B85459E205FE271994ADA2 /* ContentView.swift in Sources */,
+				7D337AA2B77ABD3B8AEF3D5B /* BrinzaTickBoard.swift in Sources */,
+				062C28E91C8FC3FE540BA2CE /* BrinzaWeekBoard.swift in Sources */,
+				5490BAD579F74E227D26EB36 /* BrinzaLinkLedger.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0BB12168779DDF7C2996C1A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		30E9E660D00EFF4B1244CCAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B029F85BD4AEBAB2E7DAECD6 /* Pods-367MealizzyPlanCompanion.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = 367MealizzyPlanCompanion/Application/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mealizzy Plan Companion";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ant.m43lzpl9ncm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		424464CD408DA16C1158C731 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD428A6B9476CCE422E3307E /* Pods-367MealizzyPlanCompanion.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = 367MealizzyPlanCompanion/Application/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mealizzy Plan Companion";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ant.m43lzpl9ncm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		EC3A2E9AD82D51D20A736D08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24B39E92ED6A0146F8D3090F /* Build configuration list for PBXNativeTarget "367MealizzyPlanCompanion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				424464CD408DA16C1158C731 /* Debug */,
+				30E9E660D00EFF4B1244CCAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F9D3088032484FCC2717D745 /* Build configuration list for PBXProject "367MealizzyPlanCompanion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC3A2E9AD82D51D20A736D08 /* Debug */,
+				0BB12168779DDF7C2996C1A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ADA950D7FBBEBF8582102C67 /* Project object */;
+}
